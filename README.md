@@ -15,3 +15,10 @@ Interactive CEO Dashboard built using Power BI to track business performance and
 ## Author
 Pavan Kumar Reddy
  Data Analyst
+## Dashboard Preview
+
+### Dashboard 1
+![Dashboard 1](Screenshot 2026-08-01 211408.png)
+
+### Dashboard 2
+![Dashboard 2](Screenshot 2026-08-01 211605.png)
